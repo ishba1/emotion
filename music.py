@@ -1,6 +1,7 @@
 import streamlit as st
 from streamlit_webrtc import webrtc_streamer
 import av
+!pip install opencv-python 
 import cv2
 import numpy as np 
 import mediapipe as mp 
