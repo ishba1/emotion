@@ -1,5 +1,6 @@
-opencv_python_headless==4.5.4.60
-streamlit==1.3.0
-mediapipe==0.8.9.1
-numpy==1.19.3
+
+streamlit
+v=opencv_python_headless
+mediapipe
+numpy
 tensorflow
