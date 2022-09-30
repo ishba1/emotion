@@ -1,7 +1,7 @@
 pip==22.2 
 numpy
 mediapipe
-dnf install opencv
+opencv
 opencv-contrib-python-headless
 streamlit==0.81.1
 streamlit_webrtc==0.20.0
