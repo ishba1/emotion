@@ -1,6 +1,9 @@
 
 streamlit
-v=opencv_python_headless
+opencv_python_headless
 mediapipe
 numpy
 tensorflow
+numpy==1.20.1
+opencv_python==4.5.1.48
+streamlit==0.78.0
