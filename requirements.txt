@@ -1,6 +1,7 @@
 av
 opencv-python-headless
 opencv-contrib-python
+tensorflow
 keras
 mediapipe
 numpy
