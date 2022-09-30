@@ -2,5 +2,7 @@ pip==22.2
 numpy
 streamlit
 mediapipe 
+pip install -U opencv-python
 opencv-python-headless
 streamlit-webrtc
+pip install -U opencv-python
